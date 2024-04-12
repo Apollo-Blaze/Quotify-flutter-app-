@@ -7,10 +7,6 @@ A simple Flutter app to add and delete quotes.
 - Add a new quote with author
 - Delete a quote
 
-## Screenshots
-
-[Add screenshots of your app here]
-
 ## Getting Started
 
 To get started with this project, clone the repository and run the following commands:
